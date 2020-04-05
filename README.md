@@ -13,7 +13,7 @@ If you don't have Homebrew installed, make sure to [visit their website](https:/
 [Homepage](http://chirp.danplanet.com/projects/chirp/wiki/Home)
 
 To install CHIRP via the command line:
-* `brew install tdsmith/ham/chirp`
+* `brew install tdsmith/homebrew-ham/chirp`
 
 To run CHRIP via the command line:
 * `chirp`
@@ -30,7 +30,7 @@ To uninstall CHIRP via the command line:
 [Homepage](https://github.com/wb2osz/direwolf)
 
 To install Dire Wolf via the command line:
-* `brew install tdsmith/ham/direwolf`
+* `brew install tdsmith/homebrew-ham/direwolf`
 
 To uninstall Dire Wolf via the command line:
 * `brew uninstall direwolf`
@@ -44,7 +44,7 @@ To uninstall Dire Wolf via the command line:
 [Homepage](http://www.xastir.org/)
 
 To install Xastir via the command line:
-* `brew install tdsmith/ham/xastir`
+* `brew install tdsmith/homebrew-ham/xastir`
 
 To uninstall Xastir via the command line:
 * `brew uninstall xastir`
@@ -57,4 +57,4 @@ To update everything from Homebrew via the command line, run these three command
 * `brew cleanup` (deletes old versions once the new ones are installed)
 
 If you've uninstalled everything from tdsmith/ham, you can remove the tap via the command line:
-* `brew untap tdsmith/ham`
+* `brew untap tdsmith/homebrew-ham`
