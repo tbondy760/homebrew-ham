@@ -15,7 +15,7 @@ If you don't have Homebrew installed, make sure to [visit their website](https:/
 To install CHIRP via the command line:
 * `brew install tdsmith/homebrew-ham/chirp`
 
-To run CHRIP via the command line:
+To run CHIRP via the command line:
 * `chirp`
 
 To uninstall CHIRP via the command line:
